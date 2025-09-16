@@ -1,0 +1,34 @@
+Region,Car,Motorcycle,Bicycle,Bus or coach,Rail: National rail,Rail: Other rail [note 4],Walk,Other modes [note 5],All modes,bike to all ratio
+North East,21,16,18,47,32,35,18,30,23,0.782608696
+Tyne and Wear,24,17,17,53,[c],35,20,30,27,0.62962963
+Rest of North East,20,[c],19,32,[c],[w],17,[w],20,0.95
+North West,24,20,21,39,65,41,14,10,25,0.84
+Greater Manchester,26,34,24,39,71,41,19,[c],29,0.827586207
+Merseyside,21,[c],23,33,44,[w],9,14,22,1.045454545
+Rest of North West,23,18,19,44,73,[w],13,[c],22,0.863636364
+Yorkshire and The Humber,24,15,23,35,56,30,14,19,24,0.958333333
+South Yorkshire,23,[w],24,43,38,30,13,[c],24,1
+West Yorkshire,26,[c],27,34,63,[w],14,17,26,1.038461538
+Rest of Yorkshire and The Humber,23,15,20,29,48,[w],14,[c],22,0.909090909
+East Midlands,23,17,22,37,58,40,16,19,23,0.956521739
+West Midlands,25,21,18,40,70,[w],16,13,26,0.692307692
+West Midlands (metropolitan county),28,[c],17,37,63,[w],17,14,29,0.586206897
+Rest of West Midlands,23,13,18,54,[c],[w],15,8,23,0.782608696
+East of England,25,15,16,34,55,[w],15,15,24,0.666666667
+London,37,51,28,42,66,49,19,70,43,0.651162791
+Central London,48,57,29,50,65,50,25,85,51,0.568627451
+Rest of Inner London,45,45,30,41,69,48,18,[w],44,0.681818182
+Outer London,32,[c],18,35,64,51,16,52,33,0.545454545
+South East,27,15,17,39,61,30,15,39,26,0.653846154
+South West,24,22,17,33,52,[c],14,28,23,0.739130435
+England,25,24,21,39,64,48,16,26,28,0.75
+Wales,22,[w],19,36,41,[c],12,[c],22,0.863636364
+Scotland,23,[c],20,42,52,[c],16,40,24,0.833333333
+Great Britain,25,23,21,39,63,48,15,30,27,0.777777778
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
