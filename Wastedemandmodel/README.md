@@ -157,9 +157,3 @@ pip install -r requirements.txt
 ```
 
 Place the required `data.csv` file in the notebook's working directory, then run the notebook cells in order.
-
-## Reproducibility and data handling
-
-- Keep raw data, generated outputs and model artefacts out of version control unless they are small, permitted to share and necessary to reproduce the project.
-- Do not commit credentials or private information.
-- Record package versions and the dataset source when preparing a reproducible release.
