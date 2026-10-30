@@ -39,7 +39,7 @@ Predictions are evaluated using chronological backtesting, with a scoreline prob
 - Scoreline probability estimation and comparison against baseline approaches.
 - Experimentation with alternative features and modelling approaches.
 
-[View project](./football-score-prediction/)
+[View project](./Score%20predictions%20model/)
 
 ### 3. Waste Demand Forecasting
 
@@ -56,7 +56,7 @@ The analysis uses monthly data and engineered temporal features, including lagge
 - Assessment against a simple lag-based baseline.
 - Hyperparameter experimentation and model comparison.
 
-[View project](./waste-demand-forecasting/)
+[View project](./Wastedemandmodel/)
 
 ---
 
